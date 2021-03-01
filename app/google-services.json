@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "783270021686",
+    "firebase_url": "https://clankbite-41385.firebaseio.com",
+    "project_id": "clankbite-41385",
+    "storage_bucket": "clankbite-41385.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783270021686:android:84b0f997ced4c0a08da697",
+        "android_client_info": {
+          "package_name": "com.example.yakalav2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783270021686-8moi6odpbum74ketck51hr5n6d30fllm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLnMQogHRy_mE8rA2q2TfbupPMSd7P3pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783270021686-8moi6odpbum74ketck51hr5n6d30fllm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
